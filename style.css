@@ -1,11 +1,32 @@
 h1{
 	
-	color: green;
+	color: orange;
 	text-align: center;
 	float: middle;
 }
 
-p{
-	
-	color: red;
+p{	
+	text-align: center;
+}
+
+table{
+	border:2px solid red;
+	border-collapse: collapse;
+	width: 50%;
+}
+th,td{
+	border: 1px solid black;
+	padding: 5px;
+	text-align: center;
+	color: black;
+}
+th{
+	background-color: grey;
+}
+td{
+	background-color: #1EA3CC;
+}
+.name{
+	color: #0FB3CC;
+	font-size: 30px;
 }
